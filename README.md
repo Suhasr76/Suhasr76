@@ -2,7 +2,7 @@
 <h3 align="center">CSE Undergrad at PES University, Bengaluru, India.</h3>
 
 <br/>
-- 📫 How to reach me **suhasravi76@gmail.com**
+- 📫 How to reach me <b>suhasravi76@gmail.com</b>
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
